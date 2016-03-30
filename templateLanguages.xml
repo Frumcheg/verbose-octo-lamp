@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.ascx;*.aspx" lang="HTML" />
+  </component>
+</application>

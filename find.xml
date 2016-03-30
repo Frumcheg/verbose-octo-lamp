@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'web-app'" />
+    <option name="defaultScopeName" value="Project 'web-app'" />
+    <option name="SEARCH_SCOPE" value="Project 'web-app'" />
+    <option name="FILE_MASK" value="*.less,*.css" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.less</mask>
+      <mask>*.jsx</mask>
+      <mask>*.less,*.css</mask>
+    </recentFileMasks>
+  </component>
+</application>
