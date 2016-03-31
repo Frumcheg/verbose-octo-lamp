@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="master" type="HTML" />
       <mapping pattern=".eslintrc" type="YAML" />
     </extensionMap>
   </component>
