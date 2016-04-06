@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="master" type="HTML" />
+      <mapping pattern=".modernizrrc" type="JSON" />
       <mapping pattern=".eslintrc" type="YAML" />
     </extensionMap>
   </component>
