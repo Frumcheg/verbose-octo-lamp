@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'web-app'" />
     <option name="defaultScopeName" value="Project 'web-app'" />
     <option name="SEARCH_SCOPE" value="Project 'web-app'" />
-    <option name="FILE_MASK" value=".css" />
+    <option name="FILE_MASK" value=".css,.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,6 +21,7 @@
       <mask>.less</mask>
       <mask>.js</mask>
       <mask>.css</mask>
+      <mask>.css,.less</mask>
     </recentFileMasks>
   </component>
 </application>
