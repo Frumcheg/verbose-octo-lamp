@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="master" type="HTML" />
       <mapping pattern=".modernizrrc" type="JSON" />
+      <removed_mapping pattern=".eslintrc" type="JSON" />
       <mapping pattern=".eslintrc" type="YAML" />
     </extensionMap>
   </component>
