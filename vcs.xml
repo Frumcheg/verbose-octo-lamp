@@ -2,5 +2,6 @@
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\a.soldatof\diadoc" />
     <option name="SHOW_WHITESPACES_IN_LST" value="true" />
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
