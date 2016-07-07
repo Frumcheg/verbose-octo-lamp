@@ -20,8 +20,8 @@
       <mask>.js</mask>
       <mask>.css</mask>
       <mask>.css,.less</mask>
-      <mask>.jsx</mask>
       <mask>.less</mask>
+      <mask>.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
