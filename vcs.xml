@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.skbkontur.ru" />
+          <option name="userName" value="a.soldatof" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\a.soldatof\diadoc" />
     <option name="SHOW_WHITESPACES_IN_LST" value="true" />
