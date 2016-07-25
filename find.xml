@@ -20,10 +20,10 @@
       <mask>*.less,*.css</mask>
       <mask>*.cs</mask>
       <mask>.js</mask>
-      <mask>.css</mask>
       <mask>.css,.less</mask>
-      <mask>.less</mask>
       <mask>.jsx</mask>
+      <mask>.css</mask>
+      <mask>.less</mask>
     </recentFileMasks>
   </component>
 </application>
