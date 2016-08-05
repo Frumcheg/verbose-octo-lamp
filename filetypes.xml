@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern=".eslintrc" type="ESLint" />
       <mapping ext="master" type="HTML" />
       <mapping pattern=".modernizrrc" type="JSON" />
-      <removed_mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern="validators/selectedActionValidators" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc" type="YAML" />
     </extensionMap>
   </component>
