@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'web-app'" />
-    <option name="defaultScopeName" value="Project 'web-app'" />
+    <option name="customScope" value="Directory '[diadoc] - ...\_Src\Hosting\web-app\src\components\ResolutionChains'" />
+    <option name="defaultScopeName" value="Directory '[diadoc] - ...\_Src\Hosting\web-app\src\components\ResolutionChains'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'web-app'" />
+    <option name="SEARCH_SCOPE" value="Directory '[diadoc] - ...\_Src\Hosting\web-app\src\components\ResolutionChains'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
