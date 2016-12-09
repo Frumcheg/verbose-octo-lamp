@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="Directory '[diadoc] - ...\_Src\Hosting\web-app\src\components\ResolutionChains'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Directory '[diadoc] - ...\_Src\Hosting\web-app\src\components\ResolutionChains'" />
+    <option name="FILE_MASK" value=".js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,8 +23,8 @@
       <mask>.css,.less</mask>
       <mask>.jsx</mask>
       <mask>.less</mask>
-      <mask>.js</mask>
       <mask>.css</mask>
+      <mask>.js</mask>
     </recentFileMasks>
   </component>
 </application>
